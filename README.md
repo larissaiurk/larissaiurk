@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me [@tech.lari](https://www.instagram.com/tech.lari/)
+- 📫 How to reach me [@larileal.tech](https://www.instagram.com/larileal.tech/)
 
 - ⚡ Fun fact **[I got my first job at 17y](https://www.youtube.com/watch?v=JcrmkMqLmys)**
 
