@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
-<h3 align="center">A passionate frontend developer with over 5 years of experience from Brazil!</h3>
+<h3 align="center">A passionate frontend developer with over 6 years of experience from Brazil!</h3>
 
 
   
