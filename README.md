@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
-<h3 align="center">A passionate frontend developer with over 6 years of experience from Brazil!</h3>
-
-
-  
-- 🌱 I’m currently learning **Tests with Jest and Testing Library**
-
-- 💬 Ask me about **Frontend**
+<h3 align="center">I'm a developer with solid experience in software development since 2016. I’ve been working with JavaScript since 2019, focusing on React, Vue, and Next.js to create reliable and scalable solutions.</h3>
 
 - 📫 How to reach me [@larileal.tech](https://www.instagram.com/larileal.tech/)
 
